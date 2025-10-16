@@ -1,0 +1,144 @@
+
+----------------------------------------------------------------------
+PARTIE 1 - Développement d'une API .NET (WEB API) - pas d'authentification , ni autorisation, ni tests à cette étape
+----------------------------------------------------------------------
+
+01 - Théorie 1 :
+https://www.inskillflow.com/courses/take/asp-net-copilot-1/texts/68852637-01-codefirst-theorie-concepts-asp-net-core-et-architecture
+
+02 -  Référence de la pratique 1 sur INSKILLFLOW + COMMANDES (PAS DE SCREENSHOTS): 
+https://www.inskillflow.com/courses/take/asp-net-copilot-1/texts/68852025-02-codefirst-pratique-1-creer-une-api-web-complete-avec-asp-net-core-entity-framework-et-sql-server-pour-gerer-des-employes-et-leurs-titres-de-poste
+
+03 -  Référence de la pratique 1 sur MEDIUM + SCREENSHOTS (PAS LES COMMANDES):
+https://juldhais.net/building-web-api-using-asp-net-core-for-dummies-3e0c59881432
+
+04 -  Implémentation sur Github (CORRECTION COMPLÈTE):
+https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-1
+
+05 - PAS DE TESTS POUR LA PARTIE 1 
+
+
+
+
+-----------------------------------------
+Méthodologie recommandée: 
+-----------------------------------------
+01 - Faire le projet sur MEDIUM (PARTIE 03 ci-haut)
+02 - Implémentation par vous même 
+03 - Vérifiez la théorie partie 01
+04 - Voir la correction sur Github (PARTIE 04)
+
+--------------------------------------------------------------------------------------------
+PARTIE 2 - INTRODUCTION DES CONCEPTS DE L'AUTORISATION + AUTHENTIFICATION 
+--------------------------------------------------------------------------------------------
+
+
+01 -  Théorie 1 (INSKILLFLOW):
+https://www.inskillflow.com/courses/take/asp-net-copilot-1/texts/68852637-01-codefirst-theorie-concepts-asp-net-core-et-architecture
+https://www.inskillflow.com/courses/take/asp-net-copilot-1/texts/69061081-liens
+
+02 - Référence de la pratique 2 sur INSKILLFLOW + COMMANDES (PAS DE SCREENSHOTS): 
+
+https://www.inskillflow.com/courses/take/asp-net-copilot-1/texts/68852025-02-codefirst-pratique-1-creer-une-api-web-complete-avec-asp-net-core-entity-framework-et-sql-server-pour-gerer-des-employes-et-leurs-titres-de-poste
+https://www.inskillflow.com/courses/take/asp-net-copilot-1/texts/68899653-utile-guide-launchsettings-json-urls-et-ports-net-core
+https://www.inskillflow.com/courses/take/asp-net-copilot-1/texts/68857888-03-codefirst-pratique-2-api-web-asp-net-core-partie-2-fonctionnalites-avancees
+
+03 - Référence de la pratique 1 sur MEDIUM + SCREENSHOTS (PAS LES COMMANDES):
+ABSENTE
+
+04 -  Implémentation sur Github (CORRECTION COMPLÈTE) - C'est l'examen qui est fait mais avec d'autres entités.
+https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-2
+
+JWT ==> https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-2/blob/main/XtraWork/16-ARCHITECTURE-COMPLETE.md 
+MIGRATIONS ==> https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-2/blob/main/XtraWork/17-GUIDE-MIGRATIONS-EF-CORE.md
+05 - TESTS: 
+https://docs.google.com/document/d/1e8ILXdDQAA7qKsWbLVYVclfQ4rDHggeq/edit?usp=drive_link&ouid=114707498422683193863&rtpof=true&sd=true
+
+
+06-AUTRE DOCUMENTATION (OPTIONNELLE)
+
+- https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS
+- https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS/tree/main/DOCUMENTS
+
+-----------------------------------------
+Méthodologie recommandée: 
+-----------------------------------------
+01 - Téléchargez le projet (Partie 04) 
+02 - Faire les tests (Partie 05)
+03 - Revenir à la théorie (Parties 01, 02 et 03)
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+PARTIE 3  - VOTRE EXAMEN POUR APPLIQUER (VOUS RÉFÉRER EN PREMIER À la partie 02 ==> 04)
+--------------------------------------------------------------------------------------------
+
+TRAVAIL À RÉALISER
+- https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-2/blob/main/XtraWork/21-EXAMEN-EDUTRACK.md
+- Regardez les .md ici et le fichier de digrammes .docx (https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-2/tree/main/XtraWork)
+- https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS/blob/main/DOCUMENTS/
+- https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS/blob/main/DOCUMENTS/21-EXAMEN-EDUTRACK.md
+- Screen1.pptx
+- Screen3.pptx
+- 21-Liste des diagrammes.docx
+
+
+
+
+--------------------------------------------------------------------------------------------
+PARTIE 4  - LES FICHIERS DISPONIBLES
+--------------------------------------------------------------------------------------------
+
+
+
+- Screen1.pptx
+- Screen3.pptx
+- ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS 
+- ASPNETCORE-WEB-API-XtraWork-PART-1 
+- ASPNETCORE-WEB-API-XtraWork-PART-2
+- ASPNETCORE-WEB-API-XtraWork-PART-3-TESTS 
+- ASPNETCORE-WEB-API-XtraWork-PART-4-EXAMEN 
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+PARTIE 5  - RÉSUMÉ et Projets complets 
+--------------------------------------------------------------------------------------------
+
+==> Il y a deux travaux à réaliser pour bien maitriser cette partie 
+
+
+https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-1
+https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-2
+
+Documentation + : 
+
+https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS 
+
+
+------------------------
+DOCUMENTS:
+------------------------
+
+COMMENCEZ PAR CE FICHIER : 
+
+- https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS/tree/main/DOCUMENTS
+- https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS/tree/main
+
+------------------------
+Partie 2 - ÉVALUATION
+------------------------
+TRAVAIL À RÉALISER
+- https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS/blob/main/DOCUMENTS/21-EXAMEN-EDUTRACK.md
+- Screen1.pptx
+- Screen3.pptx
+- 21-Liste des diagrammes.docx
+
