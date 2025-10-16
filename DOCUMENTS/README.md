@@ -1,2 +1,9 @@
 - https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS/tree/main/DOCUMENTS
 - https://github.com/inskillflow/ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS
+- Screen1.pptx
+- Screen3.pptx
+- ASPNETCORE-WEB-API-XtraWork-PART-0-INSTRUCTIONS 
+- ASPNETCORE-WEB-API-XtraWork-PART-1 
+- ASPNETCORE-WEB-API-XtraWork-PART-2
+- ASPNETCORE-WEB-API-XtraWork-PART-3-TESTS 
+- ASPNETCORE-WEB-API-XtraWork-PART-4-EXAMEN 
